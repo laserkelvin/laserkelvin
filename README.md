@@ -7,7 +7,7 @@
 ## `whoami`
 
 - Postdoc @ Center for Astrophysics—Harvard & Smithsonian
-- Australian 🇺, identifies as Kiwi 🇿, born in Hong Kong 🇰
+- 🇦🇺 Australian, identifies as Kiwi 🇳🇿, born in Hong Kong 🇭🇰, living in Boston, US 🇺🇸
 - PhD in Physical Chemistry @ UNSW Sydney: photodissociation dynamics and spectroscopy of atmospheric molecules
 
 ## Interests
@@ -17,6 +17,7 @@
 - Automated workflows and data pipelines 🤖
 - Problem solving with classical machine learning and deep learning 🖥
 - Key to my heart is a beautiful and informative visualization 📊 (Butterick & Tufte 💗)
+- Molecular reaction dynamics and spectroscopy afficionado ⚛
 
 ## Highlights
 
@@ -24,7 +25,9 @@
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1903-9242" href="https://orcid.org/0000-0002-1903-9242" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> ORCID: 0000-0002-1903-9242</a></div>
 
+<div style="display: block; margin-left: auto; margin-right: auto; width: 50%">
 <figure>
-    <img src="https://github.com/laserkelvin/laserkelvin/blob/master/bayesian-dft.png" style="max-width: 80%">
-    <figcaption>Recently got to benchmark a host of DFT methods: finally got to make a nice plot!</figcaption>
+    <img src="https://github.com/laserkelvin/laserkelvin/blob/master/bayesian-dft.png" style="height: 400px">
+    <figcaption><a href="https://pubs.acs.org/doi/10.1021/acs.jpca.9b09982">Worked on a project</a> to have a chance to make the plot above</figcaption>
 </figure>
+</div>
