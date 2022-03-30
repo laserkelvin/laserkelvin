@@ -6,7 +6,8 @@
 
 ## `whoami`
 
-- Senior postdoc @ MIT Chemistry
+- High performance computing AI/ML researcher/engineer at Intel AXG
+- Former senior postdoc @ MIT Chemistry
 - Former postdoc @ Center for Astrophysics—Harvard & Smithsonian
 - 🇦🇺 Australian, identifies as Kiwi 🇳🇿, born in Hong Kong 🇭🇰, living in Boston, US 🇺🇸
 - PhD in Physical Chemistry @ UNSW Sydney: photodissociation dynamics and spectroscopy of atmospheric molecules
